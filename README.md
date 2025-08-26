@@ -50,4 +50,4 @@ Open in browser:
 
 http://localhost:5173
 
-Live demo link : 
+Live demo link : https://weather-now-drab.vercel.app/
