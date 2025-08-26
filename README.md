@@ -1,12 +1,53 @@
-# React + Vite
+# 🌦️ Weather Forecast App
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A modern, animated Weather Forecast App built with React, Tailwind CSS, Framer Motion, and Open-Meteo API.
+Search any city worldwide 🌐 and get live temperature, weather conditions, and dynamic background effects.
 
-Currently, two official plugins are available:
+## 🚀 Features
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+🔍 Search by City — Enter any city name and fetch real-time weather.
 
-## Expanding the ESLint configuration
+🌡️ Live Temperature — Get accurate current temperature data.
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+⛅ Dynamic Weather Icons — Icons change according to weather conditions (sun, clouds, rain, snow, thunderstorm).
+
+🎨 Animated UI — Smooth transitions with Framer Motion.
+
+🌫️ Subtle Moving Gradient Clouds — Background feels alive and dreamy.
+
+📱 Responsive Design — Works perfectly on mobile and desktop.
+
+🚀 Tech Stack
+
+Frontend: React.js, Tailwind CSS
+
+Animations: Framer Motion
+
+Icons: react-icons (Weather Icons), lucide-react (UI icons)
+
+API: Open-Meteo
+ (Free weather & geocoding API)
+
+⚡ Installation
+
+Clone this repo:
+
+git clone https://github.com/yourusername/weather-app.git
+cd weather-app
+
+
+Install dependencies:
+
+npm install
+
+
+Start development server:
+
+npm run dev
+
+
+Open in browser:
+
+http://localhost:5173
+
+Live demo link : 
